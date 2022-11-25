@@ -1,0 +1,30 @@
+
+body{
+    background-color: #EAE509;
+    color:#224B0C ;
+    font-family:roboto,sans-serif ;
+
+}
+
+h1{
+    background-color: #410cef ;
+    text-align: center;
+    padding: 12px;
+    border: radius 12px; 
+
+}
+
+lol{
+    text-align: center;
+}
+
+h2{
+    background-color: #EB1D36;
+    color: black;
+    padding: 12px;
+    border-radius: 12px;
+}
+#importnt{
+    background-color: #B2C8DF;
+    padding: 12px;
+}

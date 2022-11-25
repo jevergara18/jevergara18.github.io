@@ -1,0 +1,16 @@
+
+body{
+    background-color:#000000;
+    color: rgb(238, 243, 247);
+}
+h1{
+    background-color: #21E1E1;
+    padding: 12px;
+}
+a{
+    background-color: #F7EC09;
+    color: #1A4D2E;
+    text-decoration:none ;
+    padding: 12px;
+    border: radius 12px ;
+}

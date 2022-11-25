@@ -1,0 +1,20 @@
+*{
+    margin:0%;
+    padding: 0%;
+
+}
+
+.container1{
+    background-color: rgb(255, 230, 0);
+    color: #0c0d0c;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+}
+.container2{
+    background-color: #D07000;
+    color: #21E1E1;
+    width: 200px;
+    height: 100px;
+    margin: auto;
+}
